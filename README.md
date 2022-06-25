@@ -13,22 +13,26 @@
 
 <br>
 
-<p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/SiteLSC/'> Aqui</a></p>
+<p>Pode acessar a pagina por <a href='https://github.com/lucianocoelho-28/omnistack-08'> Aqui</a></p>
 
 <p align="center">
-  <img alt="Site LSC" src="images/jogos/sitelsc.png" width="100%">
+  <img alt="Tindev" src="./tela-login.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- Yarn
+- NPM
 - NodeJS
-- ReactJS
-- React Native
+- JS Es6+
+- React
+- HTML5
+- CSS3
+- VS Code
+- Mongo DB Atlas
+- Axios
 
 Bibliotecas
 
@@ -43,7 +47,7 @@ Utilitários
 
 ## 💻 Projeto
 
-Este Website foi implementado para divulgar os trabalhos desenvolvidos na grade curricular da Faculdade de Tecnologia de Carapicuiba (FATEC) utilizando HTML 5, CSS, Javascript, Bootstrap e PHP. Para avaliação do desenvolvimento efetue o download código fonte do site no botão abaixo.
+O projeto tem como objetivo final criar um clone do Tinder porém com a peculiaridade de ser um Tinder para Desenvolvedores(TindDev), em que o desenvolvedor quando logado utilizará sua conta do github para se conectar com outros desenvolvedores podendo dar Like ou Deslike para se conectar e poderão desenvolver juntos.
 
 ## 🔖 Layout
 
