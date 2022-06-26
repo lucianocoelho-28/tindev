@@ -16,7 +16,7 @@
 <p>Pode acessar a pagina por <a href='https://github.com/lucianocoelho-28/omnistack-08'> Aqui</a></p>
 
 <p align="center">
-  <img alt="Tindev" src="./tela-login.png" width="100%">
+  <img alt="Tindev" src="./tela-login.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
