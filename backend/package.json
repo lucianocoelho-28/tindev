@@ -14,5 +14,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "author": "Luciano Coelho",
+  "description": "O projeto tem como objetivo final criar um clone do Tinder porém com a peculiaridade de ser um Tinder para Desenvolvedores(TindDev), em que o desenvolvedor quando logado utilizará sua conta do github para se conectar com outros desenvolvedores podendo dar Like ou Deslike para se conectar e poderão desenvolver juntos."
 }
