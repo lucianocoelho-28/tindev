@@ -23,7 +23,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -99,7 +99,7 @@ Desde o começo dos dispositivos mobile existe alternativas para desenvolvermos,
 
 Na prática são mundos diferentes e, o que pode gerar uma intersecção do mundo Front End com o Mobile é o **React Native**, por utilizar tanto um framework super popular na Web quanto a linguagem JavaScript. E, mesmo com essa familiaridade toda, as diferenças das plataformas ainda sim separam os profissionais que mexem com sites e aplicativos em duas linhas diferentes.
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
