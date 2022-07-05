@@ -1,14 +1,29 @@
+<h4 align="center">
+  🚀 Semana OmniStack 8.0
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/tindev">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianocoelho-28/tindev">
+  
+  <a href="https://github.com/lucianocoelho-28/tindev/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianocoelho-28/tindev">
+  </a>
+
+  <a href="https://github.com/lucianocoelho-28/tindev/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianocoelho-28/tindev">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
